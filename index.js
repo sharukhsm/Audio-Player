@@ -20,4 +20,4 @@ function pauseMusic() {
   wavesurfer.pause();
 }
 
-wavesurfer.load("https://dl.moozika.ir/mycont/uploads/2021/02/Animals.mp3");
+wavesurfer.load("https://file06.mp3ring.org/dl/iflgzZNCTY6AIfMbiTHy3A/1625476994/best-ringtone-download-044f4738dcc275b056ffc492530a5bf5/just-like-animals-maroon-5.mp3");
