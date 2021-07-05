@@ -20,4 +20,4 @@ function pauseMusic() {
   wavesurfer.pause();
 }
 
-wavesurfer.load("http://dl.moozika.ir/mycont/uploads/2021/02/Animals.mp3");
+wavesurfer.load("https://dl.moozika.ir/mycont/uploads/2021/02/Animals.mp3");
