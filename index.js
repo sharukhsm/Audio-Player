@@ -20,4 +20,4 @@ function pauseMusic() {
   wavesurfer.pause();
 }
 
-wavesurfer.load("./animals.mp3");
+wavesurfer.load("https://ghettoparrot.com/wp-content/uploads/2020/06/Maroon-5-Animals.mp3");
